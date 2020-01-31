@@ -7,7 +7,7 @@ print()
 
 def studying_lists():
     """
-    This function explains the various functions and operations applied on list.
+    This function explains the various functions and operations applied on lists.
     """
     print("-----Creating List-----")
     print()
@@ -167,6 +167,9 @@ print()
 
 
 def studying_sets():
+    """
+    This function explains the various functions and operations applied on sets.
+    """
     set_one = {1, 2, 3, 4, 5, 6, 7, 8, 9}
     print("Original set is: ", set_one)
     print()
